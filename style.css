@@ -1,0 +1,32 @@
+body {
+    background-color: #FFA27F;
+}
+
+h1 {
+    color: #FF0000;
+}
+
+#yes {
+    color: #FFE8C5;
+}
+
+#no {
+    color: #FFE8C5;
+}
+
+#maybe {
+    color: #FFE8C5;
+}
+
+#note {
+    color: #FFE8C5;
+}
+
+* {
+    text-align: center;
+}
+
+.button {
+    font-size: 30px;
+    background-color: #FFE8C5;
+}
